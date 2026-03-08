@@ -1,2 +1,13 @@
-# todo-list-app
-A simple web application that allows users to add, view, and delete daily tasks. This project was built to practice core web development concepts including HTML structure, CSS styling, and JavaScript DOM manipulation.
+# To Do List App
+
+A simple web application that allows users to add and delete tasks.
+
+## Features
+- Add tasks
+- Delete tasks
+- Simple and clean interface
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
